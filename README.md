@@ -201,3 +201,6 @@ This repository serves as the official landing page for Neighbours from Hell 2: 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Neighbours from Hell 2: On Vacation today!**
+
+---
+**Last updated:** 2026-11-09 02:30:38 UTC
