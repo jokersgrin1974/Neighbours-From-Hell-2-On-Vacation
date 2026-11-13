@@ -203,4 +203,4 @@ This repository serves as the official landing page for Neighbours from Hell 2: 
 **Get the most recent version of Neighbours from Hell 2: On Vacation today!**
 
 ---
-**Last updated:** 2026-11-12 23:25:09 UTC
+**Last updated:** 2026-11-13 06:01:36 UTC
